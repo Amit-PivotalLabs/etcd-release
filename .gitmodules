@@ -1,0 +1,6 @@
+[submodule "src/etcd"]
+	path = src/etcd
+	url = https://github.com/coreos/etcd
+[submodule "src/etcd-metrics-server"]
+	path = src/etcd-metrics-server
+	url = https://github.com/cloudfoundry-incubator/etcd-metrics-server
